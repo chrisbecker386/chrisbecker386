@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisbecker386
-- 🌱 I’m currently developing Android Apps
+- 🌱 I write Code in kotlin. 
 - 📫 You can reach me by email: christopherbecker@online.de
 
 <!---
