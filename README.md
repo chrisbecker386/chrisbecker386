@@ -1,19 +1,19 @@
 Hi, I’m @chrisbecker386
 I like to write code in kotlin but I also have experience in other languages. 
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
-####:pencil2: Programming Languages
+###:pencil2: Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,cs,ts,js)](https://skillicons.dev)
 (Kotlin, Java, Dart, CSharp, TypeScript, JavaScript)
 
-####:book: Frameworks
+###:book: Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react)](https://skillicons.dev)
 (Android, Flutter, ReactNative)
 
-####:man_technologist: I'm currently working with
+###:man_technologist: I'm currently working with
 - Kotlin
 - Android
 - Jetpack Compose
@@ -21,12 +21,12 @@ I like to write code in kotlin but I also have experience in other languages.
 - RoomDB
 - Hilt/Dagger-Hilt
 
-###:parrot: LANGUAGES
+##:parrot: LANGUAGES
 - German - Native 
 - English - Proficient
 - Swedish - Proficient
 
-###:man_juggling: SOFT SKILLS
+##:man_juggling: SOFT SKILLS
 - Results-oriented
 - Self-reliant
 - Innovative
