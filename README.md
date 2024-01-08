@@ -6,11 +6,13 @@ I like to write code in kotlin but I also have experience in other languages.
 ### :pencil2: Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,cs,ts,js)](https://skillicons.dev)
+
 (Kotlin, Java, Dart, CSharp, TypeScript, JavaScript)
 
 ### :book: Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react)](https://skillicons.dev)
+
 (Android, Flutter, ReactNative)
 
 ### :man_technologist: I'm currently working with
@@ -22,9 +24,9 @@ I like to write code in kotlin but I also have experience in other languages.
 - Hilt/Dagger-Hilt
 
 ## :parrot: LANGUAGES
-- German - Native 
-- English - Proficient
-- Swedish - Proficient
+- :de: German - Native 
+- :gb: English - Proficient
+- :sweden: Swedish - Proficient
 
 ## :man_juggling: SOFT SKILLS
 - Results-oriented
