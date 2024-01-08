@@ -2,11 +2,14 @@ Hi, I’m @chrisbecker386
 I like to write code in kotlin but I also have experience in other languages. 
 
 ### TECHNICAL SKILLS
+
 ####:pencil2: Programming Languages
+
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,cs,ts,js)](https://skillicons.dev)
 (Kotlin, Java, Dart, CSharp, TypeScript, JavaScript)
 
 ####:book: Frameworks
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react)](https://skillicons.dev)
 (Android, Flutter, ReactNative)
 
